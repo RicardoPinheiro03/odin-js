@@ -1,2 +1,2 @@
 # odin-js
-Exercises respective to Functions Basics chapter on the Odin Project.
+Exercises respective to the JavaScript chapter on the Odin Project.
